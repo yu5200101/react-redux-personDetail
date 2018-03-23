@@ -1,0 +1,1 @@
+`yarn add prop-types bootstarp less less-loader redux react-redux react-router-dom jsonp`
